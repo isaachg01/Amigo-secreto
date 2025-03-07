@@ -50,7 +50,7 @@ README.md
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/amigo-secreto.git
+   git clone https://github.com/isaachg01/Amigo-secreto.git
    ```
 2. Abre el archivo `index.html` en tu navegador.
 3. Ingresa los nombres de tus amigos.
