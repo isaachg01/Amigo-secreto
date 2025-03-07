@@ -63,9 +63,8 @@ README.md
 - Permitir sortear más de un nombre (grupos).
 - Evitar nombres repetidos.
 - Almacenar la lista temporalmente (por ejemplo, con `localStorage`).
-- Compartir el resultado por redes sociales.
 
 ## 🧑‍💻 Autor
 
-- **Tu Nombre** - [GitHub](https://github.com/tuusuario)
+- **Isaac Hernández** - [GitHub](https://github.com/isaachg01)
 
