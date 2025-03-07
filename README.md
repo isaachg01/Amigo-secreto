@@ -22,6 +22,9 @@ La aplicación permite:
 ## 📂 Estructura del proyecto
 
 ```
+/assets
+   amigo-secreto.png
+   play_circle_outline.png
 index.html
 style.css
 app.js
