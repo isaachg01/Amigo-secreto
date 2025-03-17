@@ -34,7 +34,8 @@ README.md
 ## 📸 Vista previa
 <img width="914" alt="image" src="https://github.com/user-attachments/assets/447c8572-8f16-4c37-836f-a7cc3b2cdcf9" />
 <img width="793" alt="image" src="https://github.com/user-attachments/assets/3d9bb957-d054-4398-b8cc-7271471e68ca" />
-<img width="843" alt="image" src="https://github.com/user-attachments/assets/d2a71176-3ef1-4e44-a497-39f1db61bb57" />
+<img width="903" alt="image" src="https://github.com/user-attachments/assets/42492cee-834a-4c0d-a7c3-4527dbc82d63" />
+<img width="893" alt="image" src="https://github.com/user-attachments/assets/0d432c3c-cdaf-4cb7-afdc-de770d06fe89" />
 <img width="806" alt="image" src="https://github.com/user-attachments/assets/3089fe73-5359-4077-b269-dcc0fbc8931c" />
 <img width="809" alt="image" src="https://github.com/user-attachments/assets/ab907524-d328-4e18-8f19-20545f9c4a6b" />
 
