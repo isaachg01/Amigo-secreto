@@ -32,11 +32,11 @@ function actualizarLista() {
 //Función para sortear un nombre de la lista de amigos
 function sortearAmigo() {
     if (amigos.length === 0) {
-        alert("No hay nombres en la lista de amigos para sortear.");
+        document.getElementById("resultado").innerHTML =`No hay nombres en la lista de amigos para sortear.`; 
         return;    
     } 
     if (amigos.length === 1) {
-        alert("Agrega más de un nombre a la lista para poder hacer el sorteo.");
+        document.getElementById("resultado").innerHTML =`Agrega más de un nombre en la lista de amigos.`; 
         return;
     }
     let indiceAleatorio = Math.floor(Math.random() * amigos.length);
